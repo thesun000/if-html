@@ -13,6 +13,7 @@
       <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
+
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -26,11 +27,13 @@
     </option>
   </component>
   <component name="Git.Settings">
+
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
         <entry key="$PROJECT_DIR$" value="main" />
       </map>
     </option>
+
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="SET_USER_NAME_GLOBALLY" value="false" />
   </component>
@@ -53,9 +56,11 @@
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
     &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+
     &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
     &quot;prettierjs.PrettierConfiguration.Package&quot;: &quot;C:\\Users\\MSI\\Desktop\\dev\\if-html\\node_modules\\prettier&quot;,
     &quot;settings.editor.selected.configurable&quot;: &quot;settings.javascript.prettier&quot;,
+
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
@@ -100,6 +105,7 @@
       <map>
         <entry key="MAIN">
           <value>
+
             <State>
               <option name="FILTERS">
                 <map>
@@ -113,13 +119,9 @@
                 </map>
               </option>
             </State>
-          </value>
-        </entry>
-      </map>
-    </option>
-  </component>
-  <component name="VcsManagerConfiguration">
-    <MESSAGE value="Added .gitignore and index.html files to&#10;project" />
+
+            <State />
+
     <MESSAGE value="Installed Prettier. Added new elements to index.html and added new page" />
     <option name="LAST_COMMIT_MESSAGE" value="Installed Prettier. Added new elements to index.html and added new page" />
   </component>
